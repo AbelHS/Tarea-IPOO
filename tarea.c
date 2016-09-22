@@ -216,37 +216,7 @@ int main(void)
 
 
 
-
-
-
-
-
-
-
-
-
 /*
-int main(void)
-{
-
-    char a[] = "hola";
-    char b = 'a';
-    char *s = &a;
-    char *ss = &a;
-
-    char *sss[] = {"holaa","adioss","jejje"};
-
-    int i;
-    for (i=0; i<5; i++ )
-        printf("\n%c", *(s+i));
-
-
-    printf("\n fuera del for %c", *s);
-    printf("\n fuera del for %d", s-ss);
-    printf("\n fuera del for %s", *sss);
-    return 0;
-}
-
 
 
 
