@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1477060278 source:c:\users\rossy\desktop\script pyrox\lab\arraypoint.cpp
+	"ArrayPoint.h"
+
+1477060444 source:c:\users\rossy\desktop\script pyrox\lab\main.cpp
+	"Point.h"
+	"ArrayPoint.h"
+
+1477060278 c:\users\rossy\desktop\script pyrox\lab\arraypoint.h
+	"Point.h"
+
+1477006608 c:\users\rossy\desktop\script pyrox\lab\point.h
+	<iostream>
+
+1477050805 source:c:\users\rossy\desktop\script pyrox\lab\point.cpp
+	"Point.h"
+
