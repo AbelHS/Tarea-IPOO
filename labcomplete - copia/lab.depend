@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1477155625 source:c:\users\rossy\desktop\script pyrox\lab\arraypoint.cpp
+	"ArrayPoint.h"
+
+1477155565 source:c:\users\rossy\desktop\script pyrox\lab\main.cpp
+	"Point.h"
+	"ArrayPoint.h"
+	"Vector.h"
+	"VectorArray.h"
+
+1477147249 c:\users\rossy\desktop\script pyrox\lab\arraypoint.h
+	"Point.h"
+
+1477006608 c:\users\rossy\desktop\script pyrox\lab\point.h
+	<iostream>
+
+1477149201 source:c:\users\rossy\desktop\script pyrox\lab\point.cpp
+	"Point.h"
+
+1477151660 c:\users\rossy\desktop\script pyrox\lab\vector.h
+	"Point.h"
+
+1477151660 source:c:\users\rossy\desktop\script pyrox\lab\vector.cpp
+	"Vector.h"
+
+1477155744 source:c:\users\rossy\desktop\script pyrox\lab\vectorarray.cpp
+	"VectorArray.h"
+
+1477153785 c:\users\rossy\desktop\script pyrox\lab\vectorarray.h
+	"Vector.h"
+
+1478152618 source:e:\mega\labcomplete\arraypoint.cpp
+	"ArrayPoint.h"
+
+1478152634 e:\mega\labcomplete\arraypoint.h
+	"Point.h"
+
+1477006610 e:\mega\labcomplete\point.h
+	<iostream>
+
+1478151682 source:e:\mega\labcomplete\main.cpp
+	"Point.h"
+	"ArrayPoint.h"
+	"Vector.h"
+	"VectorArray.h"
+
+1477151662 e:\mega\labcomplete\vector.h
+	"Point.h"
+
+1477153786 e:\mega\labcomplete\vectorarray.h
+	"Vector.h"
+
+1477149202 source:e:\mega\labcomplete\point.cpp
+	"Point.h"
+
+1477151662 source:e:\mega\labcomplete\vector.cpp
+	"Vector.h"
+
+1477155746 source:e:\mega\labcomplete\vectorarray.cpp
+	"VectorArray.h"
+
+1478153002 source:e:\mega\labcomplete\poligono.cpp
+	"Poligono.h"
+
+1478152070 e:\mega\labcomplete\poligono.h
+	"ArrayPoint.h"
+
+1478152988 source:e:\mega\labcomplete\geometria.cpp
+	"Geometria.h"
+	<math.h>
+
+1478152988 e:\mega\labcomplete\geometria.h
+	"Poligono.h"
+
+1478177935 source:c:\users\alumno-a\downloads\labcomplete\arraypoint.cpp
+	"ArrayPoint.h"
+
+1478177935 c:\users\alumno-a\downloads\labcomplete\arraypoint.h
+	"Point.h"
+
+1477006610 c:\users\alumno-a\downloads\labcomplete\point.h
+	<iostream>
+
+1478179130 source:c:\users\alumno-a\downloads\labcomplete\main.cpp
+	"Point.h"
+	"ArrayPoint.h"
+	"Vector.h"
+	"VectorArray.h"
+	"Geometria.h"
+
+1477151662 c:\users\alumno-a\downloads\labcomplete\vector.h
+	"Point.h"
+
+1477153786 c:\users\alumno-a\downloads\labcomplete\vectorarray.h
+	"Vector.h"
+
+1477149202 source:c:\users\alumno-a\downloads\labcomplete\point.cpp
+	"Point.h"
+
+1478179012 source:c:\users\alumno-a\downloads\labcomplete\poligono.cpp
+	"Poligono.h"
+
+1478179012 c:\users\alumno-a\downloads\labcomplete\poligono.h
+	"ArrayPoint.h"
+
+1477151662 source:c:\users\alumno-a\downloads\labcomplete\vector.cpp
+	"Vector.h"
+
+1477155746 source:c:\users\alumno-a\downloads\labcomplete\vectorarray.cpp
+	"VectorArray.h"
+
+1478179130 source:c:\users\alumno-a\downloads\labcomplete\geometria.cpp
+	"Geometria.h"
+	<math.h>
+
+1478178522 c:\users\alumno-a\downloads\labcomplete\geometria.h
+	"Poligono.h"
+
