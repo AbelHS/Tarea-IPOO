@@ -1,7 +1,5 @@
 
 #include <iostream>
-//#include <stdexcept>
-
 using namespace std;
 
 #include <vector>
