@@ -13,16 +13,6 @@ int mod(int a, int b) {
 	return r;
 }
 
-int qq(int a, int b) {
-	int r, q;
-	q = a/b;
-	r = a-(b*q);
-	if(r<0){
-        q--;
-        return b;}
-	return b;
-}
-
 class Cesar
 {
         int clave;
@@ -116,25 +106,11 @@ int euclidesX(int a, int b)
     cout << t1 <<" "<< s1;
 }
 
-int mcd(int a, int b)
-{
-    int _a = a;
-    int _b = b;
-    int r = mod(_a,_b);
-    while(r>0)
-    {   _a = _b;
-        _b = r;
-        r = mod(_a,_b);
-    }
-    return _b;
-}
-
 int main()
 {
     euclidesX(250,111);
     cout << endl;
-    cout << mcd(250,111);
-    cout << endl;
+
     Cesar a(3);
 
     a.cifrar("hola mundo");

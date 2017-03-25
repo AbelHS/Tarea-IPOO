@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490416019 source:c:\users\phyrox\desktop\labd3_1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
