@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1491068371 source:c:\users\alumno-b\desktop\afin\main.cpp
+	"Afin.h"
+
+1491068423 c:\users\alumno-b\desktop\afin\include\afin.h
+	"public.h"
+
+1491066471 c:\users\alumno-b\desktop\afin\include\public.h
+	<iostream>
+	<string>
+
+1491068454 source:c:\users\alumno-b\desktop\afin\src\afin.cpp
+	"Afin.h"
+
+1491067096 source:c:\users\alumno-b\desktop\afin\src\public.cpp
+	"public.h"
+
